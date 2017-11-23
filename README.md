@@ -28,8 +28,11 @@ For each classifier algorithm, we want to explore the effect of their inherent h
 
 #### Naive Bayes
 http://www.statsoft.com/textbook/naive-bayes-classifier
+
 https://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html
+
 http://scikit-learn.org/stable/modules/naive_bayes.html
+
 Suggest Multinomial Naive Bayes but can check out other event models such as Poisson
 
 #### LSTM Hyperparameters
