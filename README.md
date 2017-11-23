@@ -34,15 +34,15 @@ Suggest Multinomial Naive Bayes but can check out other event models such as Poi
 
 #### LSTM Hyperparameters
 https://deeplearning4j.org/lstm.html
-Optimizer Algorithm
-Learning Rate
-Learning Iterations (# of epoch and early stopping)
-Batch size
-Stacking Layers
+- Optimizer Algorithm
+- Learning Rate
+- Learning Iterations (# of epoch and early stopping)
+- Batch size
+- Stacking Layers
 
 #### CNN Hyperparameters
 http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
-Convolution width (narrow vs wide)
-Stride size of kernel (filter)
-Pooling Layers
-Channels e.g. instead of RGB for images, we have different word embeddings e.g. word2vec and GloVe
+- Convolution width (narrow vs wide)
+- Stride size of kernel (filter)
+- Pooling Layers
+- Channels e.g. instead of RGB for images, we have different word embeddings e.g. word2vec and GloVe
