@@ -1,0 +1,28 @@
+Keras 1D 3x convolution
+glovew2v.txt
+batch_size = 64
+filters = 250
+filter_size = 3
+epochs = 10
+
+Keras 1D 3x convolution
+trained.txt
+batch_size = 64
+filters = 250
+filter_size = 3
+epochs = 10
+
+
+TF 1D convolution
+glovew2v.txt
+batch_size = 64
+filters = 250
+filter_size = [3]
+epochs = 2
+
+TF 1D convolution
+trained.txt
+batch_size = 64
+filters = 250
+filter_size = [3]
+epochs = 1
